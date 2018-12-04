@@ -1,0 +1,92 @@
+#portfolio {
+    height: 40%;
+    width: 70%;
+    border: 10px black;
+}
+
+.white-background {
+    color: black;
+}
+
+#info-text {
+    border-radius: 25px;
+    background: #5072A7;
+    padding: 20px; 
+    width: 250px;
+    height: 200px;
+    margin-left: 40%;
+    overflow: auto;
+    -webkit-box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.75);
+}
+
+#about {
+    float: left;
+}
+
+.links {
+    float: right;
+	height: 40px;
+	width: 40px;
+}
+
+#github {
+    margin-left: 20%;
+}
+
+#links {
+    background-color: inherit;
+    width: 20%;
+}
+
+#navbar {
+    background-color: #343a40;
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+}
+
+#about, #carousel, #contact-info {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 4%;
+    float: inherit;
+    padding: 2%;
+    background-color: whitesmoke;
+    -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.title {
+    border-bottom: 2px solid black;
+}
+
+.footer {
+    width: 100%;
+    height: 5%;
+    background-color: #343a40;
+    margin-top: 5%;
+}
+
+#antipiracy {
+    padding-top: 2%;
+    color: antiquewhite;
+    text-align: center;
+}
+
+body {
+    background-image: url("./images/beauty.jpg");
+}
+
+#carouselExampleIndicators {
+    -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
